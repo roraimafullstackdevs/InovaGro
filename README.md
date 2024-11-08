@@ -69,24 +69,6 @@ Date-fns: v2.30.0
 Observação: Certifique-se de usar as versões recomendadas para evitar problemas de
 compatibilidade.
 
-4. Variáveis de Ambientes
-PORT=5000
-DB_PRODUCTION=false
-NODE_ENV=production
-POSTGRES_URL="postgres://default:bU4mrpoklF3G@ep-royal-math-a4c615f1.us-
-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-DB_LOCAL_URL="postgres://postgres:admin@localhost:5432/chamagro_db"
-JWT_SALTROUND = 10
-JWT_SECRET="2NmORAkTBKcDpxFOMSQMPdKWKqZ4tQq+9XY2jBnB8ywYrd
-3NTY9YZn8LHSM="
-JWT_ACCESS_EXPIRATION_MINUTES=30
-JWT_REFRESH_EXPIRATION_DAYS=30
-JWT_RESET_PASSWORD_EXPIRATION_MINUTES=10
-JWT_VERIFY_EMAIL_EXPIRATION_MINUTES=10
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USERNAME=devacc2010@gmail.com
-
 
 5. Como rodar a Aplicação
    5.1 Pré-requisitos
